@@ -1,0 +1,1 @@
+# Seasonal-component-in-trends-in-CBOT-SRW-nearest-futures-price
