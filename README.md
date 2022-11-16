@@ -4,5 +4,5 @@ Highlighting seasonal component in price moovement of CBOT SRW nearest futures n
 
 Yuriy Podmogaev
 
-twitter: @podmogaev
-instagram: @yuriypodmogaev
+- twitter: @podmogaev
+- instagram: @yuriypodmogaev
